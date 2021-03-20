@@ -4,7 +4,7 @@ steps/Runner.java
  steps.Runner
 steps/Base.java
  steps.Base
-simples/Artigo.java
- simples.Artigo
 steps/Post.java
  steps.Post
+simples/Artigo.java
+ simples.Artigo
